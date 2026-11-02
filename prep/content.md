@@ -9,7 +9,7 @@ Topic: **X**
 
 ##### Software
 * [weather wise](https://web.weatherwise.app/)
-  * the website uses radar technology from both U.S. [Storm prediction Center](https://www.spc.noaa.gov/) and official National Weather service [website](https://www.weather.gov/), as well as alerts fro
+  * the website uses radar technology from both U.S. [Storm prediction Center](https://www.spc.noaa.gov/) and official National Weather service [website](https://www.weather.gov/), as well as [alerts from metro alarm](
   * [image text](image URL)
 
 ##### Hardware
