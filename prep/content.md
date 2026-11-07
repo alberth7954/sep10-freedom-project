@@ -9,8 +9,8 @@ Topic: **X**
 
 ##### Software
 * [weather wise](https://web.weatherwise.app/)
-  * the website uses radar technology from both U.S. [Storm prediction Center](https://www.spc.noaa.gov/) and official National Weather service [website](https://www.weather.gov/), as well as [alerts from metro alarm](
-  * [image text](image URL)
+  * the website uses radar technology from both U.S. [Storm prediction Center](https://www.spc.noaa.gov/) and official National Weather service [website](https://www.weather.gov/), as well as [alerts from meteo alarm](https://meteoalarm.org/en/live/)
+  * [image from the app](https://web.weatherwise.app/assets/v1/welcome-video-Cl9z5kwt.png))
 
 ##### Hardware
 * SVR Dominator 
