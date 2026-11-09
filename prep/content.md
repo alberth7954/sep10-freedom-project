@@ -2,7 +2,7 @@
 Topic: **X**
 
 ## Overview/Introduction/Context
-* Text
+* the topic of meterology is the study of weather, meterology is where people study weather patterns and use that to predict how that will impact people and potentially property as well as prepare them for any damage to their property or to people.
 * Text
 
 ## Part A: existing technology
