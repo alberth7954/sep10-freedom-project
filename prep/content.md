@@ -3,14 +3,14 @@ Topic: **X**
 
 ## Overview/Introduction/Context
 * the topic of meterology is the study of weather, meterology is where people study weather patterns and use that to predict how that will impact people and potentially property as well as prepare them for any damage to their property or to people.
-* technology has helped forecasters issue warnings in advance as well as allowed 
+* technology has helped forecasters issue warnings in advance as well as allowed chasers to gather scientific data from the storms.
 
 ## Part A: existing technology
 
 ##### Software
 * [weather wise](https://web.weatherwise.app/)
   * the website uses radar technology from both U.S. [Storm prediction Center](https://www.spc.noaa.gov/) and official National Weather service [website](https://www.weather.gov/), as well as [alerts from meteo alarm](https://meteoalarm.org/en/live/)
-  * [image from the app](https://web.weatherwise.app/assets/v1/welcome-video-Cl9z5kwt.png))
+  * [image from the app](https://web.weatherwise.app/assets/v1/welcome-video-Cl9z5kwt.png)
 
 ##### Hardware
 * SVR Dominator 
@@ -19,6 +19,9 @@ Topic: **X**
 * Weather Probes
     * Probes are like mini weather stations commonly used by storm chasers to gather information from the inside of a tornado, probes are usually put in the path of a tornado.
     * [examples of Probes](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tTsSZjkKIrawrBrEt5XDTo_O8Xz0z3TvKt_yn-R29BERT4DJ3ySwogrLAt7m-w_uNIuYvaKMoAOGVUKATY2wDN_OKEeoPPUw64duHckIiyDkU-NRPW4TFxp2yY4FDQsGktnkccQ110YL863Qk_Li9XZTvbICA1nKA9KqesxYhXmenk2_ItgYhjnRKeSOwDNEAttieK5gLowAtBZjWMv7VxcdnnYQTLa5xOTCXYvi8=w1280)
+* Doppler On Wheels (DOW)
+    * The DOW is a vehicle that can provide radar scans from near the storm, this is useful for areas where regular Doppler radar cant see.
+    * [image of a DOW](http://www.cswr.org/img/DOW8.jpg)
 ## Part B: possible future technology
 * Idea
   * Detail
