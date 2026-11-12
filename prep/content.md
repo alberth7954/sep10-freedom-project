@@ -21,7 +21,7 @@ Topic: **X**
   * [The 3rd version of the dominator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmudSHOpndT_c9Mu_1YOM4uF4akhTMOlFCh51TivTxkw&s=10)
 * Weather Probes
     * Probes are like mini weather stations commonly used by storm chasers to gather information from the inside of a tornado, probes are usually put in the path of a tornado.
-    * [examples of a probe]([https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tTsSZjkKIrawrBrEt5XDTo_O8Xz0z3TvKt_yn-R29BERT4DJ3ySwogrLAt7m-w_uNIuYvaKMoAOGVUKATY2wDN_OKEeoPPUw64duHckIiyDkU-NRPW4TFxp2yY4FDQsGktnkccQ110YL863Qk_Li9XZTvbICA1nKA9KqesxYhXmenk2_ItgYhjnRKeSOwDNEAttieK5gLowAtBZjWMv7VxcdnnYQTLa5xOTCXYvi8=w1280](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQbSRqwhz618PCZeId0E0xffP95Bb8HD43AVgl8stwUGDu1AaH2y-z8vEF&s=10))
+    * [examples of a probe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQbSRqwhz618PCZeId0E0xffP95Bb8HD43AVgl8stwUGDu1AaH2y-z8vEF&s=10)
 * Doppler On Wheels (DOW)
     * The DOW is a vehicle that can provide radar scans from near the storm, this is useful for areas where regular Doppler radar cant see.
     * [image of a DOW](http://www.cswr.org/img/DOW8.jpg)
