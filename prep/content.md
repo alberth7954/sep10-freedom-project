@@ -11,8 +11,8 @@ Topic: **Meteorology**
 * [weather wise](https://web.weatherwise.app/)
   * the website uses radar technology from both U.S. [Storm prediction Center](https://www.spc.noaa.gov/) and official National Weather service [website](https://www.weather.gov/), as well as [alerts from meteo alarm](https://meteoalarm.org/en/live/)
   * [image from the app](https://web.weatherwise.app/assets/v1/welcome-video-Cl9z5kwt.png)
-
-* AWIPS or known as the Advanced Weather Interactive Processing System is the way weather forecasters view meteorological, hydrological, satellite, and radar data all in one app, it is also free for the public to download
+* Advanced Weather Interactive Processing System (AWIPS)
+   * AWIPS or known as the Advanced Weather Interactive Processing System is the way weather forecasters view meteorological, hydrological, satellite, and radar data all in one app, it is also free for the public to download
   * [image of the software](https://upload.wikimedia.org/wikipedia/commons/5/57/AWIPS-3-head-workstation.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)  
 
 ##### require advanced experience
