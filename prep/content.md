@@ -28,5 +28,5 @@ Topic: **Meteorology**
  * IPAWS also known as the Integrated Public Alert and Warning System is the way the National Weather service to send out weather alerts to the public in a matter of seconds without any delays
    * [once the IPAWS sends out a alert the TV station receiving the alert broadcasts it like in this example where a Digital Alert Systems Decoder was used to broadcast the alert](https://static.wikia.nocookie.net/emergencyalertsystem/images/a/ab/Tornado_Warning_Marshall_County_WV.png/revision/latest/scale-to-width-down/1000?cb=20221215185518) 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Double scan doppler radar
+  * expanding the idea of a Dual Polarized Radar we could install another radar scanner to 
